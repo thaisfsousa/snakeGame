@@ -9,7 +9,6 @@ body {
 }
 
 .header {
-  margin-top: 8px;
   margin-left: 80%;
   border-bottom: 3px solid black;
   font-family: sans-serif;
@@ -17,7 +16,6 @@ body {
 }
 
 img {
-  padding: 5px;
   margin-top: 5px;
 }
 
@@ -36,11 +34,11 @@ img:hover {
 #game {
   display: block;
   background-color: transparent;
-  font-size: 50px;
+  font-size: 40px;
   color: black;
   background-color: rgba(140, 212, 176, 0.596);
   font-family: sans-serif;
-  padding: 20px;
+  padding: 5px;
   border-radius: 20px;
 }
 
@@ -48,10 +46,10 @@ img:hover {
   display: none;
   background-color: brown;
   color: black;
-  font-size: 50px;
+  font-size: 40px;
   font-family: sans-serif;
   border-radius: 20px;
-  padding: 20px;
+  padding: 5px;
   border: 2px solid black;
 }
 
