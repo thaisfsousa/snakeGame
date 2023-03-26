@@ -1,20 +1,17 @@
 body {
-  height: 95vh;
-  width: 95;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
   color: rgb(0, 0, 0);
   background: rgb(155, 155, 155);
+  margin: 0;
 }
 
 .header {
   margin-top: 8px;
   margin-left: 80%;
   border-bottom: 3px solid black;
-  font-size: 25px;
-  font-weight: 500;
   font-family: sans-serif;
   padding: 10px;
 }
@@ -22,7 +19,6 @@ body {
 img {
   padding: 5px;
   margin-top: 5px;
-  width: 50px;
 }
 
 img:hover {
